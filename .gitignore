@@ -1,0 +1,11 @@
+# Ignore environment variable files
+.env
+openai-proxy/.env
+
+
+# Optional: Common ignores for Node.js projects
+node_modules/
+dist/
+.DS_Store
+.env.local
+.env.production
